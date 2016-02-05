@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "baseName": "jhip",
+    "packageName": "com.pajk.bailei",
+    "packageFolder": "com/pajk/bailei",
+    "authenticationType": "xauth",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "2b7404a1ce11692cb7e8d856b19c39aff732b3c4",
+    "testFrameworks": []
+  }
+}
