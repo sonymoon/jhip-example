@@ -1,0 +1,2 @@
+# jhip-example
+jhipster demo
